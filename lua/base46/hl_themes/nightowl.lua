@@ -73,6 +73,10 @@ M.polish_hl = {
         fg = M.base_30.cyan,
     },
 
+    ["@keyword.try"] = {
+        fg = M.base_30.vibrant_green,
+    },
+
     PmenuSel = {
         bg = M.base_30.blue,
     },
