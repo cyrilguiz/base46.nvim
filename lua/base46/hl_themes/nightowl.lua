@@ -69,6 +69,10 @@ M.polish_hl = {
         fg = M.base_30.purple,
     },
 
+    ["@variable"] = {
+        M.base_30.orange,
+    },
+
     PmenuSel = {
         bg = M.base_30.blue,
     },
