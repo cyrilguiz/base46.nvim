@@ -65,8 +65,16 @@ M.polish_hl = {
         fg = M.base_30.cyan,
     },
 
-    ["@type"] = {
+    ["@type.const"] = {
         fg = M.base_30.purple,
+    },
+
+    ["@type.var"] = {
+        fg = M.base_30.purple,
+    },
+
+    ["@type"] = {
+        fg = M.base_30.sun,
     },
 
     PmenuSel = {
