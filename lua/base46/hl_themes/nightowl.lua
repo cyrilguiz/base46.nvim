@@ -70,7 +70,7 @@ M.polish_hl = {
     },
 
     ["@variable"] = {
-        fg = M.base_30.orange,
+        fg = M.base_30.teal,
     },
 
     PmenuSel = {
