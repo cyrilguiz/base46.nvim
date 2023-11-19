@@ -73,7 +73,7 @@ M.polish_hl = {
         fg = M.base_30.cyan,
     },
 
-    ["@keyword.try"] = {
+    ["@statement"] = {
         fg = M.base_30.vibrant_green,
     },
 
