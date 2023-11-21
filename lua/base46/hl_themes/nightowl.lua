@@ -61,8 +61,11 @@ M.polish_hl = {
         fg = M.base_30.cyan,
     },
 
+    ["@typeconst"] = {
+        fg = M.base_30.teal,
+    },
     ["@type"] = {
-        fg = M.base_30.orange,
+        fg = M.base_30.purple,
     },
 
     ["@variable"] = {
