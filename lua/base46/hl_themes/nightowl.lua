@@ -57,24 +57,16 @@ M.polish_hl = {
         fg = M.base_30.orange,
     },
 
-    ["@keyword.return"] = {
-        fg = M.base_30.cyan,
-    },
-
     ["@conditional"] = {
         fg = M.base_30.cyan,
     },
 
     ["@type"] = {
-        fg = M.base_30.purple,
+        fg = M.base_30.orange,
     },
 
     ["@variable"] = {
-        fg = M.base_30.cyan,
-    },
-
-    ["@statement.try"] = {
-        fg = M.base_30.vibrant_green,
+        fg = M.base_30.teal,
     },
 
     PmenuSel = {
